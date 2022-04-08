@@ -2,3 +2,4 @@
 
 
 ![](helloworld.png)
+![](logstatementadded.png)
